@@ -8,5 +8,10 @@ Check Weather of your city on the go using this Web App.
 
 Just enter city name and get weather results.
 
+To use your API key :- 
+  Create .env file 
+  create variable API_KEY = YOUR API KEY
+  then save and run the code.
+
 Technologies Used:- HTML, CSS, JAVASCRIPT, NODE.JS.
 
